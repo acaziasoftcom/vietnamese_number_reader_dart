@@ -1,0 +1,12 @@
+name: vietnamese_number_reader
+description: Translate number into Vietnamese wordphases.
+version: 1.0.0
+homepage: https://clip-sub.com
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+  test: ^1.9.1
